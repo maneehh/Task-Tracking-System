@@ -25,7 +25,7 @@ The Task Tracking System is a straightforward program designed to facilitate the
     gcc task_tracking.c -o task_tracking
     ```
 
-## Usage
+### Usage
 
 ```bash
 ./task_tracking
