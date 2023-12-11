@@ -23,7 +23,7 @@ The Task Tracking System is a straightforward program designed to facilitate the
 ```bash
     cd task-tracking-system
     gcc task_tracking.c -o task_tracking
-    ```
+```
 
 ### Usage
 
